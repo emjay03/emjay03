@@ -1,4 +1,4 @@
-<h3 align="center">Hello, my name is MJ Cariso and I am a student pursuing a degree in Information Technology. As a third year student, I am eager to enter the workforce and put my skills and knowledge to use as a front end developer or software engineer. I am passionate about using technology to create innovative solutions and am determined to succeed in this field.</h3>
+<h3 align="center">Hello, my name is MJ Cariso and I am a student pursuing a degree in Information Technology. I am eager to enter the workforce and put my skills and knowledge to use as a front end developer or software engineer. I am passionate about using technology to create innovative solutions and am determined to succeed in this field.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emjay03&label=Profile%20views&color=0e75b6&style=flat" alt="emjay03" /> </p>
 
