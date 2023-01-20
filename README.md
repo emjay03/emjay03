@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://emjay03.github.io/MJ-Webdeveloper/](https://emjay03.github.io/MJ-Webdeveloper/)
+- 👨‍💻 All of my projects are available at [https://emjay03.github.io/Portfolio/](https://emjay03.github.io/MJ-Webdeveloper/)
 
 - 📫 How to reach me **mjcariso3@gmail.com**
 
