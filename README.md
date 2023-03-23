@@ -1,5 +1,5 @@
 
-
+ <img src="Image.png" />
 <h3 align="center">Hello, my name is MJ Cariso and I am a student pursuing a degree in Information Technology. I am eager to enter the workforce and put my skills and knowledge to use as a front end developer or software engineer. I am passionate about using technology to create innovative solutions and am determined to succeed in this field.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emjay03&label=Profile%20views&color=0e75b6&style=flat" alt="emjay03" /> </p>
@@ -19,9 +19,21 @@
 <a href="https://instagram.com/emxxjayxx_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="emxxjayxx_" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+<h3 align="left">Languages:</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,java,cs" />
+  </a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emjay03&show_icons=true&locale=en&layout=compact" alt="emjay03" /></p>
+<h3 align="left">Tools:</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emjay03&show_icons=true&locale=en" alt="emjay03" /></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,tailwind,vscode,eclipse,visualstudio,gradle,webflow,figma,nodejs" />
+  </a>
+
+<h3 align="left">Frameworks:</h3>
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,tailwind,materialui" />
+  </a>
+
+![Emjay's GitHub stats](https://github-readme-stats.vercel.app/api?username=emjay03&show_icons=true&theme=transparent)
