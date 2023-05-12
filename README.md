@@ -36,4 +36,14 @@
     <img src="https://skillicons.dev/icons?i=react,tailwind,materialui" />
   </a>
 
-![Emjay's GitHub stats](https://github-readme-stats.vercel.app/api?username=emjay03&show_icons=true&theme=transparent)
+ 
+  <div>
+    <h3>GitHub Stats</h3>
+    <img src="https://github-readme-stats.vercel.app/api?username=emjay03&show_icons=true&theme=transparent" width="500"/>
+   
+  </div>
+  <div>
+    <h3>GitHub Streak</h3>
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=emjay03&theme=transparent" width="500"/>
+  </div>
+ 
