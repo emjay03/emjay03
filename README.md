@@ -37,14 +37,27 @@
  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 </div>
 
+<!--Database used-->
+
+<h4>𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲𝘀</h4>
+<div>
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+ <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
+ <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"/>
+</div>
+
 <!--Frameworks used-->
 
-<h4>𝗙𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸𝘀</h4>
+<h4>𝗙𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸𝘀 & 𝗟𝗶𝗯𝗿𝗮𝗿𝘆</h4>
 <div>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
  <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"/>
  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+ <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
+ <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
 </div>
 
 <!--Tools used-->
@@ -56,15 +69,17 @@
  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/>
  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NPM-A80025?style=for-the-badge&logo=npm&logoColor=white"/>
 </div>
 
 <!--Server used-->
 
-<h4>𝗦𝗲𝗿𝘃𝗲𝗿</h4>
+<h4>𝗦𝗲𝗿𝘃𝗲𝗿 & 𝗦𝗲𝗿𝘃𝗶𝗰𝗲𝘀</h4>
 <div>
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white"/>
 <img src="https://img.shields.io/badge/Apache-1B6AC6?style=for-the-badge&logo=apache&logoColor=white"/>
  <img src="https://img.shields.io/badge/IIS-1B6AC6?style=for-the-badge&logo=windows&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 </div>
 
 <!--OS used-->
