@@ -95,7 +95,7 @@
  
 <h4>𝗚𝗲𝘁 𝘁𝗼 𝗸𝗻𝗼𝘄 𝗺𝗲</h4>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Laravel**
 
 - 😡 I hate programming
 
